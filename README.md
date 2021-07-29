@@ -4,6 +4,18 @@
 
 
 
+**Requirements**
+
+```bash
+pip install -r requirements.txt
+```
+
+
+
+
+
+**Usages**
+
 ```bash
 python main.py
 ```
